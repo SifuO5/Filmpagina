@@ -1,0 +1,39 @@
+main {
+    margin: 8vw;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+img {
+    width: 25vw;
+}
+
+.heart-icon {
+    width: 30px;
+    cursor: pointer;
+}
+
+/*.film-item*/
+
+article {
+   background-color: lightgrey;
+}
+
+button {
+    background-color: transparent;
+    border: none;
+}
+
+.red {
+    height: 100px;
+    fill: red;
+
+}
+
+svg {
+    cursor: pointer;
+    fill: white;
+    width: 50px;
+}
+
